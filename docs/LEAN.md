@@ -102,10 +102,11 @@ No automation-heavy tactics (`aesop`, `linarith`, etc.) are used.
 
 ## Build Commands
 
-| Command      | Purpose |
-|--------------|---------|
-| `lake build` | Typecheck all proofs |
-| `lake exe identityregimes` | Run verification executable |
+| Command | Purpose |
+|---------|---------|
+| `lake clean` | Remove build artifacts. |
+| `lake build` | Compile the project. |
+| `lake exe verify` | Run verification executable. |
 
 ---
 

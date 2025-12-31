@@ -1,7 +1,0 @@
-import StructuralExplainability.EvolutionProtocol.Core.Record.Entity.EntityRecord
-import StructuralExplainability.EvolutionProtocol.Core.Record.Relationship.RelationshipRecord
-import StructuralExplainability.EvolutionProtocol.Core.Record.Evolution.EvolutionRecord
-import StructuralExplainability.EvolutionProtocol.Core.Record.Shared.EntityRef
-
-namespace StructuralExplainability.EvolutionProtocol.Core.Record
-end StructuralExplainability.EvolutionProtocol.Core.Record

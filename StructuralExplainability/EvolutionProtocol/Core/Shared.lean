@@ -1,4 +1,0 @@
-import StructuralExplainability.EvolutionProtocol.Core.Shared.RecordEnvelope
-
-namespace StructuralExplainability.EvolutionProtocol.Core.Shared
-end StructuralExplainability.EvolutionProtocol.Core.Shared

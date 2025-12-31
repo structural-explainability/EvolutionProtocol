@@ -44,7 +44,7 @@ keywords = [
 # REQ.BUILD.DEFAULT_TARGETS:
 #   Default build surface for lake build command.
 #   MUST include the public library root.
-defaultTargets = ["StructuralExplainability"]
+defaultTargets = ["EvolutionProtocol"]
 
 # ============================================================
 # Libraries provided by this package
@@ -54,7 +54,7 @@ defaultTargets = ["StructuralExplainability"]
 #   Public Lean library exported by this package.
 #   Downstream users import this namespace directly.
 [[lean_lib]]
-name = "StructuralExplainability"
+name = "EvolutionProtocol"
 
 # ============================================================
 # Executables

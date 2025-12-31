@@ -1,6 +1,0 @@
-import StructuralExplainability.EvolutionProtocol.Core.Model.Consent
-import StructuralExplainability.EvolutionProtocol.Core.Model.IdentifierScheme
-import StructuralExplainability.EvolutionProtocol.Core.Model.Retention
-
-namespace StructuralExplainability.EvolutionProtocol.Core.Model
-end StructuralExplainability.EvolutionProtocol.Core.Model

@@ -1,5 +1,0 @@
-import StructuralExplainability.EvolutionProtocol.Core.Base.Ids
-import StructuralExplainability.EvolutionProtocol.Core.Base.Primitives
-
-namespace StructuralExplainability.EvolutionProtocol.Core.Base
-end StructuralExplainability.EvolutionProtocol.Core.Base
