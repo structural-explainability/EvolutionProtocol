@@ -1,0 +1,5 @@
+import StructuralExplainability.EvolutionProtocol.Spec.Conformance
+import StructuralExplainability.EvolutionProtocol.Spec.IdentifierMap
+
+namespace StructuralExplainability.EvolutionProtocol.Spec
+end StructuralExplainability.EvolutionProtocol.Spec

@@ -1,0 +1,46 @@
+schema = "se-manifest-1"
+
+[repo]
+name = "EvolutionProtocol"
+org = "structural-explainability"
+kind = "formalization"
+status = "reference"
+since = "2025"
+summary = "Lean formalization of EP graph evolution concepts and conformance predicates."
+
+[layer]
+space = "SE"
+role = "formal-graph-evolution"
+
+[depends]
+required = [
+  "structural-explainability/spec-se@v1",
+  "structural-explainability/spec-ae@v1",
+  "structural-explainability/spec-ep@v1",
+]
+optional = []
+
+[provides]
+artifacts = ["CITATION.cff", "README.md"]
+
+[scope]
+includes = [
+  "abstract graph/state/delta/evolution predicates",
+  "proof scaffolding for EP conformance",
+]
+excludes = [
+  "attestations",
+  "ctags",
+  "epistemic, causal, or normative conclusions",
+  "explanation or interpretation",
+  "relationship semantics",
+  "vocabulary",
+]
+
+[citation]
+cff = "CITATION.cff"
+preferred = "repo"
+bib_hint = "case2025ep"
+
+[traceability]
+identifier_map = "EvolutionProtocol/Spec/IdentifierMap.lean"

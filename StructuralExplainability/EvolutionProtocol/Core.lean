@@ -1,0 +1,7 @@
+import StructuralExplainability.EvolutionProtocol.Core.Base
+import StructuralExplainability.EvolutionProtocol.Core.Model
+import StructuralExplainability.EvolutionProtocol.Core.Record
+import StructuralExplainability.EvolutionProtocol.Core.Shared
+
+namespace StructuralExplainability.EvolutionProtocol.Core
+end StructuralExplainability.EvolutionProtocol.Core

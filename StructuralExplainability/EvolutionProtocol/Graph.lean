@@ -1,0 +1,9 @@
+import StructuralExplainability.EvolutionProtocol.Graph.ConsentPropagation
+import StructuralExplainability.EvolutionProtocol.Graph.Coverage
+import StructuralExplainability.EvolutionProtocol.Graph.Dependency
+import StructuralExplainability.EvolutionProtocol.Graph.EvolutionGraph
+import StructuralExplainability.EvolutionProtocol.Graph.EvolutionStore
+import StructuralExplainability.EvolutionProtocol.Graph.TypedGraph
+
+namespace StructuralExplainability.EvolutionProtocol.Graph
+end StructuralExplainability.EvolutionProtocol.Graph
