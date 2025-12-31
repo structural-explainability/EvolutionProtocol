@@ -1,7 +1,7 @@
 cff-version: "1.2.0"
 type: software
 
-title: "Structural Explainability: Evolution Protocol"
+title: "Structural Explainability: Evolution Protocol Formalization"
 version: "0.1.0"
 date-released: "2025-12-26"
 
@@ -20,9 +20,9 @@ keywords:
   - evolution-protocol
   - provenance
   - dependency-graphs
-  - identity-regimes
-  - formal-ontology
+  - formal-specification
   - formal-verification
+  - proof-carrying
   - theorem-proving
   - lean4
 

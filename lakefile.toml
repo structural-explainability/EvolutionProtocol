@@ -30,9 +30,9 @@ keywords = [
   "evolution-protocol",
   "provenance",
   "dependency-graphs",
-  "identity-regimes",
-  "formal-ontology",
+  "formal-specification",
   "formal-verification",
+  "proof-carrying",
   "theorem-proving",
   "lean4"
 ]
