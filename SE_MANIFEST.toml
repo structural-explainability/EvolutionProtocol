@@ -21,12 +21,7 @@ required = [
 optional = []
 
 [provides]
-artifacts = [
-  "ANNOTATIONS.md",
-  "CITATION.cff",
-  "README.md",
-  "SE_MANIFEST.toml"
-]
+artifacts = ["ANNOTATIONS.md", "CITATION.cff", "README.md", "SE_MANIFEST.toml"]
 
 [scope]
 includes = [
