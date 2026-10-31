@@ -1,3 +1,5 @@
+-- Archived.
+-- Retired and no longer authoritative. See repository README.md.
 import EvolutionProtocol.Core.Model.Consent
 import EvolutionProtocol.Core.Model.IdentifierScheme
 import EvolutionProtocol.Core.Model.Retention

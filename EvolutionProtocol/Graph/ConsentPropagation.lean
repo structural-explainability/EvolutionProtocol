@@ -1,3 +1,5 @@
+-- Archived.
+-- Retired and no longer authoritative. See repository README.md.
 import EvolutionProtocol.Graph.EvolutionGraph
 import EvolutionProtocol.Core.Model.Consent
 

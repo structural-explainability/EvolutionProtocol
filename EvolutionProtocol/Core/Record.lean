@@ -1,3 +1,5 @@
+-- Archived.
+-- Retired and no longer authoritative. See repository README.md.
 import EvolutionProtocol.Core.Record.Entity.EntityRecord
 import EvolutionProtocol.Core.Record.Relationship.RelationshipRecord
 import EvolutionProtocol.Core.Record.Evolution.EvolutionRecord

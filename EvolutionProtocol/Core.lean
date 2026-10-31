@@ -1,3 +1,5 @@
+-- Archived.
+-- Retired and no longer authoritative. See repository README.md.
 import EvolutionProtocol.Core.Base
 import EvolutionProtocol.Core.Model
 import EvolutionProtocol.Core.Record
